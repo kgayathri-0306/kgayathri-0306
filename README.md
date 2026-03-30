@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kottkota Gayathri  
+# Hi there 👋, I'm Kottakota Gayatri  
 
  I’m a B.Tech 3rd year student (Computer Science & Systems Engineering) at **Andhra University College of Engineering for Women**.  
  Passionate about **Python, Java, AI/ML, SQL, DBMS, Web Development, and DSA**.  
