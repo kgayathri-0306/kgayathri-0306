@@ -14,7 +14,7 @@ Machine Learning & Deep Learning
 Data Analysis & Visualization
 Advanced Python for Data Science
 Database Management Systems & SQL Optimization
-Data Structures & Algorithms
+Data Structures & Algorithms.
 
 ## Skills & Technologies
 
