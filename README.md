@@ -1,34 +1,84 @@
-# Hi there 👋, I'm Kottakota Gayatri  
+# Hi there 👋, I'm Kottakota Gayatri
+🎓 I am a B.Tech 3rd-year student in **Computer Science & Systems Engineering** at **Andhra University College of Engineering for Women**.
+I am passionate about **Data Science, Artificial Intelligence, and Machine Learning**, with a strong interest in transforming data into meaningful insights and building intelligent solutions for real-world problems. I enjoy combining analytical thinking with programming to create impactful and data-driven applications.
 
- I’m a B.Tech 3rd year student (Computer Science & Systems Engineering) at **Andhra University College of Engineering for Women**.  
- Passionate about **Python, Java, AI/ML, SQL, DBMS, Web Development, and DSA**.  
- I love solving problems, building real-world apps, and exploring data-driven solutions.  
+**About Me**
+Strong interest in **Data Science, Machine Learning, and AI-driven applications**
+Skilled in Python, Java, SQL, and problem-solving concepts
+Actively improving my knowledge in **Data Structures & Algorithms**
+Enthusiastic about data analysis, predictive modeling, and intelligent systems
+Interested in collaborating on innovative AI/ML and data-driven projects
 
- What I’m working on
-- AI/ML projects (Image classification, Data Analysis)  
-- Building apps using **Python, Java, and Web technologies**  
-- Practicing **DSA & algorithms** for better problem-solving  
+**Currently Learning**
+Machine Learning & Deep Learning
+Data Analysis & Visualization
+Advanced Python for Data Science
+Database Management Systems & SQL Optimization
+Data Structures & Algorithms
 
- What I’m currently learning
-- **Machine Learning & Deep Learning**  
-- **Advanced Java & OOP concepts**  
-- **Database Management Systems & SQL optimization**  
-- **XML & JavaScript** for web applications  
+## Skills & Technologies
 
-  I’m looking to collaborate on
-- Open-source projects in **AI/ML and Web Development**  
-- Data-driven applications with real-world impact  
+**Programming Languages**
+* Python
+* Java
+* C
+* C++
 
-###  Skills & Tools
-- **Programming:** Python, Java, C, C++  
-- **AI/ML:** NumPy, Pandas, Streamlit, Scikit-learn  
-- **Databases:** SQL, DBMS  
-- **Web Development:** HTML, JavaScript, XML  
-- **Concepts:** DSA, Algorithms, OOP  
-- **Other Skills:** Communication, Decision Making, Problem Solving  
+**Data Science & AI/ML**
+* NumPy
+* Pandas
+* Scikit-learn
+* Streamlit
+* Data Visualization
+* Machine Learning Basics
+
+**Databases**
+* SQL
+* DBMS
+
+**Web Technologies**
+* HTML
+* JavaScript
+* XML
+
+ **Core Concepts**
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Problem Solving
+* Analytical Thinking
+
+ **Soft Skills**
+* Communication
+* Decision Making
+* Team Collaboration
+* Critical Thinking
+
+**Areas of Interest**
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Data Analytics
+* Predictive Modeling
+* Intelligent Systems
+
+**Projects & Work**
+I enjoy working on:
+* Data Analysis Projects
+* Machine Learning Applications
+* Image Classification Models
+* AI-Based Solutions
+* Real-World Data-Driven Applications
+
+**Currently exploring:**
+
+* Predictive Analytics
+* Deep Learning Concepts
+* Data Visualization Techniques
+* AI-Powered Applications
 
 
-### GitHub Stats
+
+## GitHub Stats
 ![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgayathri-0306&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgayathri-0306&layout=compact&theme=radical)  
@@ -37,6 +87,6 @@
 
 ###  How to reach me
 -  Email: **kgayathri0306@gmail.com**  
--  LinkedIn: [Kottkota Gayathri](https://www.linkedin.com/in/kottkota-gayathri-758087306)  
+-  LinkedIn: [Kottakota Gayatri](https://www.linkedin.com/in/kottakota-gayatri-758087306)  
 
-✨ *Thanks for visiting my profile!*
+✨ *Thank you for visiting my profile. I’m always eager to learn, collaborate, and contribute to impactful technology and data-driven solutions.*
