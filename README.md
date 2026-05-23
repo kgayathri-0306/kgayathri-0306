@@ -62,6 +62,7 @@ Data Structures & Algorithms
 * Intelligent Systems
 
 **Projects & Work**
+
 I enjoy working on:
 * Data Analysis Projects
 * Machine Learning Applications
