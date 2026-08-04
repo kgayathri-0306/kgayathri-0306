@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Kottakota Gayatri
-🎓 I am a B.Tech 3rd-year student in **Computer Science & Systems Engineering** at **Andhra University College of Engineering for Women**.
+🎓 I am a B.Tech final-year student in **Computer Science & Systems Engineering** at **Andhra University College of Engineering for Women**.
 I am passionate about **Data Science, Artificial Intelligence, and Machine Learning**, with a strong interest in transforming data into meaningful insights and building intelligent solutions for real-world problems. I enjoy combining analytical thinking with programming to create impactful and data-driven applications.
 
 **About Me**
